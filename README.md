@@ -1,2 +1,2 @@
-# Yashwanth
-This is my first git repository
+#Yashwanth
+This is my first git repository.
